@@ -6,6 +6,8 @@ Project
 > Have you ever wanted to know the numerical veterancy bonuses in game, without going to the [COH2.ORG guide](https://www.coh2.org/guides/29892/the-company-of-heroes-2-veterancy-guide)? Yeah! It's great that my rifleman receives `...more experience from extensive combat, increasing weapon lethality, increased durability, reducing ability recharge, and increasing ability range`, but how much exactly? I am glad that my riflemen got so much out of their extensive combat, but I WANT NUMBERS.
 >
 > Now you can get exact numbers in game with this great mod. It works in automatch too! With this mod, no more colourful and vague descriptions - only straight talk!
+>
+> ![Numerical Veterancy Description Image](https://www.coh2.org/file/13006/veterancy.jpg)
 
 [Source](https://www.coh2.org/news/58454/numerical-veterancy-description)
 
