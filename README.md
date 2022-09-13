@@ -13,7 +13,9 @@ Authors
 -----------
 
 Thanks to Sarantini for making the [Veterancy Guide](https://www.coh2.org/guides/29892/the-company-of-heroes-2-veterancy-guide) in early 2015 and CookiezNcreem and Tobis for updating it.
+
 Thanks to Harold for being the first to come up with the [Numerical Veterancy Description Mod](https://www.coh2.org/topic/58241/numeral-veterancy-descriptions-english-localization-mod) in 2015.
+
 Thanks to Karotten Harry and jamesjamozo for updating it and the German version.
 
 Download
