@@ -3,10 +3,11 @@
 Project
 ------
 
-In CoH2 units have ambiguous or outdated veteran descriptions like: "Experienced crew improves combat performance."
-The Mod replaces these texts with accurate values and/or mentions how abilities change. The goal here is to make game mechanics more transparent and to make it easier to understand the match-up between units.
+> Have you ever wanted to know the numerical veterancy bonuses in game, without going to the [COH2.ORG guide](https://www.coh2.org/guides/29892/the-company-of-heroes-2-veterancy-guide)? Yeah! It's great that my rifleman receives `...more experience from extensive combat, increasing weapon lethality, increased durability, reducing ability recharge, and increasing ability range`, but how much exactly? I am glad that my riflemen got so much out of their extensive combat, but I WANT NUMBERS.
+>
+> Now you can get exact numbers in game with this great mod. It works in automatch too! With this mod, no more colourful and vague descriptions - only straight talk!
 
-The best part - it works in Multiplayer and replays and tells you the Vet-buffs of enemy and allied units.
+[Source](https://www.coh2.org/news/58454/numerical-veterancy-description)
 
 Authors
 -----------
