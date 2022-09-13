@@ -39,4 +39,4 @@ Installation
 If you want to restore the file:
 * If CoH 2 is started, stop the game;
 * Go to your Steam Library and right-click CoH 2;
-* Click on Properties... -> Local Files -> Verify integrity of game files...;
+* Click on *Properties...* -> *Local Files* -> *Verify integrity of game files...*;
