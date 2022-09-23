@@ -22,6 +22,8 @@ Thanks to Osinyagov for the [Russian version](https://www.coh2.org/topic/60155/n
 
 Thanks to Karotten Harry and jamesjamozo for updating the English version and for the translation for the German version.
 
+Thanks to 3nder990 for the translation for the Spanish version.
+
 Download
 -----------
 
