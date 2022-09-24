@@ -20,7 +20,7 @@ Thanks to Harold for being the first to come up with the [Numerical Veterancy De
 
 Thanks to Osinyagov for the [Russian version](https://www.coh2.org/topic/60155/numeral-veterancy-descriptions-russian-localization-mod).
 
-Thanks to Karotten Harry and jamesjamozo for updating the English version and for the translation for the German version.
+Thanks to jamesjamozo and Karotten Harry for updating the English version and for the translation for the German version.
 
 Thanks to 3nder990 for the translation for the Spanish version.
 
