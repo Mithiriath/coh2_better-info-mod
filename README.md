@@ -7,7 +7,7 @@ Project
 > 
 > **What are the modification?**
 >
-> - Veterancy buffs are shown in the Vet-descriptions of all Units (aka *Numerical Veterancy Description Mod*).
+> - Veterancy buffs are shown in the Vet-descriptions of all Units (aka *Numerical Veterancy Description Mod* - See section below).
 > - HP and armor values are shown in the description of vehicles. Tanks and anti-tank guns additionally show damage as well as penetration.
 > - Skills, Commander abilities, upgrades and small portrait icons (aura buffs, etc) were mostly replaced with more accurate descriptions.
 > - Repair rates are shown in the descriptions of Engineers and their upgrades (minesweepers, etc.).
