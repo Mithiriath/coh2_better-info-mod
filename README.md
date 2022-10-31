@@ -31,16 +31,16 @@ Notation
 -----------
 
 - Armor: `<front>;<rear>`
-- Damage: `<Penetration damage>(<Deflection damage if exist>)`
+- Damage: `<Penetration damage>`(`<Deflection damage if exist>`)
 - Duration: `<duration of the ability>`
 - HP: `<hp>`
 - Penetration: `<same value at all range>`
-- Penetration: `<short>,<medium>,<long> range`
+- Penetration: `<short>,<medium>,<long>` range
 - Penetration near-far: `<near>-<far>`
 - Range: `<max firing range>`
-- Range of aura: 
+- Range of aura: `<max aura range>`
 - Sight: `<range if different than the default 35 range>`
-- *: `Means that the statistic of the unit increases when the unit gains veterancy. Like: `
+- *: Means that the statistic of the unit increases when the unit gains veterancy.
 
 Authors
 -----------
