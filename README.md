@@ -76,8 +76,9 @@ Installation
 * If CoH 2 is started, stop the game;
 * Go to your Steam Library and right-click CoH 2;
 * Click on *Properties...* -> *Local Files* -> *Browse...* to open your CoH 2 directory;
-* Go to the folder: *CoH2* -> *Locale* -> *English* (if you have your game in English. Czech/French/German/Italian/Polish/Russian/Spanish folder if you have your game in Czech/...)
+* Go to the folder: *CoH2* -> *Locale* -> *English* (if you have your game in English. Czech/French/German/Italian/Polish/Russian/Spanish folder if you have your game in an other language);
 * Replace the file *RelicCoH2.English.ucs* (if you have your game in English) by the new file you downloaded.
+* If you have your game in Czech for example and want to use the *RelicCoH2.English.ucs* file from the mod, you can. You just copy *RelicCoH2.English.ucs* file in your *Czech* folder then rename it *RelicCoH2.Czech.ucs*.
 
 If you want to restore the file:
 * If CoH 2 is started, stop the game;
