@@ -1,7 +1,23 @@
-# Company of Heroes 2 - Numerical Veterancy Description Mod
+# Company of Heroes 2 - Better-Info-Mod
 
 Project
 ------
+
+> Company of Heroes 2 is a strategy game full of units, abilities and mechanics and unfortunately their explanation often falls short, descriptions are often vague or outdated. As a result, most players dont bother to look at the in-game text info anymore and even experienced players still have to ask themselves questions like: `What does the Combined Arms ability actually do?`. Players who actually want to know more details have to look for them outside the game, with many of these guides and stat-websites being outdated themselves. We think a more accurate description makes game mechanics more transparent and can influence the decision making of casual as well as experienced players.
+> 
+> **What are the modification?**
+>
+> - Veterancy buffs are shown in the Vet-descriptions of all Units (aka Numerical Veterancy Description Mod).
+> - HP and armor values are shown in the description of vehicles. Tanks and anti-tank guns additionally show damage as well as penetration.
+> - Skills, Commander abilities, upgrades and small portrait icons (aura buffs, etc) were mostly replaced with more accurate descriptions.
+> - Repair rates are shown in the descriptions of Engineers and their upgrades (minesweepers, etc.).
+> - Damage to vehicles is shown in the descriptions of mines. Snares and anti-tank weapons for infantry additionally show penetration as well as range.
+> - Time to complete tech upgrades and tech buildings is shown in their description.
+> - Sight ranges are shown in the descriptions of infantry who can see beyond default 35 range.
+
+[Source](https://discord.com/channels/779432820405305404/1031542580338503730/1032673804381589614)
+
+**Numerical Veterancy Description Mod**
 
 > Have you ever wanted to know the numerical veterancy bonuses in game, without going to the [COH2.ORG guide](https://www.coh2.org/guides/29892/the-company-of-heroes-2-veterancy-guide)? Yeah! It's great that my rifleman receives `...more experience from extensive combat, increasing weapon lethality, increased durability, reducing ability recharge, and increasing ability range`, but how much exactly? I am glad that my riflemen got so much out of their extensive combat, but I WANT NUMBERS.
 >
@@ -11,8 +27,29 @@ Project
 
 [Source](https://www.coh2.org/news/58454/numerical-veterancy-description)
 
+Notation
+-----------
+
+- Armor: `<front>;<rear>`
+- Damage: `<Penetration damage>(<Deflection damage if exist>)`
+- Duration: `<duration of the ability>`
+- HP: `<hp>`
+- Penetration: `<same value at all range>`
+- Penetration: `<short>,<medium>,<long> range`
+- Penetration near-far: `<near>-<far>`
+- Range: `<max firing range>`
+- Range of aura: 
+- Sight: `<range if different than the default 35 range>`
+- *: `Means that the statistic of the unit increases when the unit gains veterancy. Like: `
+
 Authors
 -----------
+
+### Better-Info-Mod
+
+Thanks to jamesjamozo for the English and the German version.
+
+### Numerical Veterancy Description Mod
 
 Thanks to Sarantini for making the [Veterancy Guide](https://www.coh2.org/guides/29892/the-company-of-heroes-2-veterancy-guide) in early 2015 and CookiezNcreem and Tobis for updating it.
 
