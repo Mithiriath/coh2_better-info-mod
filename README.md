@@ -7,7 +7,7 @@ Project
 > 
 > **What are the modification?**
 >
-> - Veterancy buffs are shown in the Vet-descriptions of all Units (aka Numerical Veterancy Description Mod).
+> - Veterancy buffs are shown in the Vet-descriptions of all Units (aka *Numerical Veterancy Description Mod*).
 > - HP and armor values are shown in the description of vehicles. Tanks and anti-tank guns additionally show damage as well as penetration.
 > - Skills, Commander abilities, upgrades and small portrait icons (aura buffs, etc) were mostly replaced with more accurate descriptions.
 > - Repair rates are shown in the descriptions of Engineers and their upgrades (minesweepers, etc.).
@@ -65,6 +65,9 @@ Download
 -----------
 
 You can dowload the file [from github](https://github.com/Mithiriath/coh2_better-info-mod/releases).
+Click on the link above, *Assets* section, then click on *Source code (zip)*.
+
+![Github Download Mod Procedure Image](https://www.coh2.org/file/20453/github-download-mod-procedure.png)
 
 Installation
 -----------
