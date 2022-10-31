@@ -31,7 +31,7 @@ Notation
 -----------
 
 - Armor: `<front>;<rear>`
-- Damage: `<Penetration damage>`(`<Deflection damage if exist>`)
+- Damage: `<penetration damage>`(`<deflection damage if exist>`)
 - Duration: `<duration of the ability>`
 - HP: `<hp>`
 - Penetration: `<same value at all range>`
