@@ -64,7 +64,7 @@ Thanks to 3nder990 for the translation for the Spanish version.
 Download
 -----------
 
-You can dowload the file [from github](https://github.com/Mithiriath/coh2_veterancy_descriptions_mod/releases).
+You can dowload the file [from github](https://github.com/Mithiriath/coh2_better-info-mod/releases).
 
 Installation
 -----------
