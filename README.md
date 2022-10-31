@@ -65,9 +65,10 @@ Download
 -----------
 
 You can dowload the file [from github](https://github.com/Mithiriath/coh2_better-info-mod/releases).
+
 Click on the link above, *Assets* section, then click on *Source code (zip)*.
 
-![Github Download Mod Procedure Image](https://www.coh2.org/file/20453/github-download-mod-procedure.png)
+[![Github Download Mod Procedure Image](https://www.coh2.org/file/20453/github-download-mod-procedure.png)](https://github.com/Mithiriath/coh2_better-info-mod/releases)
 
 Installation
 -----------
