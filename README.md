@@ -55,7 +55,7 @@ Thanks to Sarantini for making the [Veterancy Guide](https://www.coh2.org/guides
 
 Thanks to Harold for being the first to come up with the [Numerical Veterancy Description Mod](https://www.coh2.org/topic/58241/numeral-veterancy-descriptions-english-localization-mod) in 2015.
 
-Thanks to Osinyagov for the [Russian version](https://www.coh2.org/topic/60155/numeral-veterancy-descriptions-russian-localization-mod).
+Thanks to Osinyagov and RussianHamster (aka XaMiaK) for the [Russian version](https://www.coh2.org/topic/60155/numeral-veterancy-descriptions-russian-localization-mod).
 
 Thanks to jamesjamozo and Karotten Harry for updating the English version and for the translation for the German version.
 
