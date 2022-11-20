@@ -1,4 +1,4 @@
-# Company of Heroes 2 - Numerical Veterancy Description Mod
+# Company of Heroes 2 - Better-Info-Mod
 
 Source Files
 ------
