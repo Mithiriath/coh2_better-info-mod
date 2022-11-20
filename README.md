@@ -3,19 +3,37 @@
 Project
 ------
 
-> Company of Heroes 2 is a strategy game full of units, abilities and mechanics and unfortunately their explanation often falls short, descriptions are often vague or outdated. As a result, most players dont bother to look at the in-game text info anymore and even experienced players still have to ask themselves questions like: `What does the Combined Arms ability actually do?`. Players who actually want to know more details have to look for them outside the game, with many of these guides and stat-websites being outdated themselves. We think a more accurate description makes game mechanics more transparent and can influence the decision making of casual as well as experienced players.
+> The "mod" is basically just a rewritten text file. Each text entry in the game has a unique key ID in that text file, and the associated text has been edited to be actually useful.
+> 
+> Company of Heroes 2 is a game full of units, abilities and mechanics. However, the UI's explanation of these is often vague or outdated. This leads to the fact that hardly anyone looks at the descriptions more than once, and those who want to know more details has to do research outside the game with sources that are often outdated themselves.
+> 
+> The mod takes descriptions of abilities, veterancy changes, units, build time, upgrades, aura buffs, damage dealt, etc. and replaces them with the most accurate, comprehensible values possible.
+> 
+> Now you will get accurate and actually helpful information by hovering your mouse over the respective icon, veteran star or unit descriptions in the lower part of the screen.
+> 
+> Here are some examples:
+> 
+> ![Better-Info-Mod Image 01](https://www.coh2.org/file/20468/coh2-betterinfmod-02.png)
+> 
+> ![Better-Info-Mod Image 02](https://www.coh2.org/file/20469/coh2-betterinfmod-03.png)
+> 
+> ![Better-Info-Mod Image 03](https://www.coh2.org/file/20470/coh2-betterinfmod-04.png)
+> 
+> ![Better-Info-Mod Image 04](https://www.coh2.org/file/20471/coh2-betterinfmod-05.png)
 > 
 > **What are the modification?**
->
-> - Veterancy buffs are shown in the Vet-descriptions of all Units (aka *Numerical Veterancy Description Mod* - See section below).
-> - HP and armor values are shown in the description of vehicles. Tanks and anti-tank guns additionally show damage as well as penetration.
-> - Skills, Commander abilities, upgrades and small portrait icons (aura buffs, etc) were mostly replaced with more accurate descriptions.
-> - Repair rates are shown in the descriptions of Engineers and their upgrades (minesweepers, etc.).
-> - Damage to vehicles is shown in the descriptions of mines. Snares and anti-tank weapons for infantry additionally show penetration as well as range.
-> - Time to complete tech upgrades and tech buildings is shown in their description.
-> - Sight ranges are shown in the descriptions of infantry who can see beyond default 35 range.
+> 
+> - Shows more detailed unit veterancy descriptions (i.e. an up-to-date *Numerical Veterancy Description Mod* - See section below).
+> - For vehicles, shows armor values, health points and weapon range (if beyond default). Also shows damage and penetration (near-far) values for tanks.
+> - For team weapons, shows penetration and range. Also shows damage and Penetration for artillery, mortars and anti-tank guns.
+> - Additional detailed descriptions for most skills, commander abilities, upgrades and aura buffs (small portrait icons).
+> - Shows the sight range of infantry and light vehicles (if beyond default 35m Range).
+> - Shows the repair rates of engineers and and their upgrades (minesweepers, etc.).
+> - Shows explosive damage of mines, snares and anti-tank weapons. It also shows the penetration of anti-tank weapons used by infantry.
+> - Shows the (de)capture rate (if higher than 1.0) for infantry and light vehicles.
+> - Shows build times for tech upgrades and base buildings.
 
-[Source](https://discord.com/channels/779432820405305404/1031542580338503730/1032673804381589614)
+[Source](https://www.coh2.org/news/110870/better-info-mod)
 
 **Numerical Veterancy Description Mod**
 
@@ -26,6 +44,14 @@ Project
 > ![Numerical Veterancy Description Image](https://www.coh2.org/file/13006/veterancy.jpg)
 
 [Source](https://www.coh2.org/news/58454/numerical-veterancy-description)
+
+Feedback? Contribution?
+-----------
+
+If you find a typo/error, see information missing, have other suggestions, or want to help to translate the mod for another language, please don't hesitate to contact us. You can reach out in two ways:
+
+- [CoHmmunity Germany Discord](https://discord.gg/zUJRw8juFk);
+- [Github](https://github.com/Mithiriath/coh2_better-info-mod/issues);
 
 Notation
 -----------
@@ -48,6 +74,8 @@ Authors
 ### Better-Info-Mod
 
 Thanks to jamesjamozo for the English and the German version.
+
+Thanks to Osinyagov for the Russian translation.
 
 ### Numerical Veterancy Description Mod
 
